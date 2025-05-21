@@ -1,3 +1,5 @@
+//run npm init on local machine to download the necessary node modules
+
 class Library {
     name: string;
     books: string[] | null;
